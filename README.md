@@ -1,4 +1,4 @@
-# https://terentevartem.github.io/
+# https://github.com/terentevartem/terentevartem.github.io
 
 
 ## Version
